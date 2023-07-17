@@ -1,0 +1,3 @@
+# Transfer Files From Linux to Other OS
+1. scp -r username@192.168.0.000(system ip address):/path(transfer file path)  C:\path(path where files are going to transfer)
+Example:  scp -r username@192.168.0.000:/home/jarvis/test  C:\Users\jarvis\testdublicate
